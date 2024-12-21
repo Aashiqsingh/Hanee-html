@@ -1,0 +1,38 @@
+html --> Hyper text markup language
+            - hyper text --> Link 
+
+founder of html?
+- Tim berner's lee 
+
+html --> 1991
+html 2 --> 1995
+html 3 --> (jan , 1997)
+html 4 --> (Dec , 1997)
+html 4 --> 2014 - 5.2 --> 2017
+
+introduce --> 1993 --> first website --> https://info.cern.ch 
+
+
+where html run ?
+- browser / client side 
+
+html extension ?
+- .html / .htm 
+
+
+Html use?
+- to creata a static structure of website or webpages.
+
+
+html structure 
+
+
+<html>
+<head>
+    <title>First</title>
+</head>
+<body>
+
+</body>
+
+</html>
